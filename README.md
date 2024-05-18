@@ -12,4 +12,5 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+https://amrmoadel.hashnode.dev/overthewire-bandit
 <!-- BLOG-POST-LIST:END -->
